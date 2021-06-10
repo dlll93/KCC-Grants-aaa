@@ -1,4 +1,4 @@
-## Basic information
+## 🧑‍💻Basic information
 
          - Project Name  
 
@@ -6,15 +6,15 @@
 
          - Payment Address
 
-## Project Overview
+## 🎯Project Overview
 
           - Overview
 
-         -  Project Details
+          - Project Details
 
-## Team 
+## 👥Team 
 
-          - Team members
+         - Team members
 
          - Contact
 
@@ -26,9 +26,10 @@
 
          - Team Code Repos
 
-## Development Roadmap
+## 🏆Development Roadmap
 
-         - Overview
+ Overview
+ 
 
          - Milestone 1
 
@@ -38,22 +39,17 @@
 
              - Costs:
 
-1	xxxxx	xxxxx
-2	xxxxx	xxxxx
-3	xxxxx	xxxxx
-...	xxxxx	xxxxx
-         - Milestone 2
+ ...
+ 
+          - Milestone 2
 
               - Estimated Duration:
 
               - FTE: 
 
               - Costs:
+...
 
-1	xxxxx	xxxxx
-2	xxxxx	xxxxx
-3	xxxxx	xxxxx
-...	xxxxx	xxxxx
         - Milestone X..
 
               -  Estimated Duration:
@@ -62,13 +58,13 @@
 
               - Costs:
 
-1	xxxxx	xxxxx
-2	xxxxx	xxxxx
-3	xxxxx	xxxxx
-...	xxxxx	xxxxx
-## Future Plans
+...
 
-## Additional Information ➕
+## 📡Future Plans
+      Type something about your future plan
+      
+
+## 🙋Additional Information ➕
 
       Any additional information that you think is relevant to this application that hasn't already been included.
 
